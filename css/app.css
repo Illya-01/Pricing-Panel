@@ -104,7 +104,7 @@ li {
     background-color: var(--clr-neutral-400);
 }
 
-.pricing-button:focus {
+.pricing-button:focus-visible {
     outline: 2px solid var(--clr-primary-400);
     outline-offset: 2px;
 }
